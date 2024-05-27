@@ -20,3 +20,9 @@ h2 {text-align: center;}
 h2 {font-family: Impact,sans-serif;}
 
 p {font-size: 15px;}
+
+.parag {
+    text-align: center;
+}
+
+#secparag {font-size: 14px;}
