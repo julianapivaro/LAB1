@@ -1,0 +1,22 @@
+h1 {color: red;}
+h2 {color: red;}
+
+html { font-family: Georgia, serif;}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;}
+    
+h1 {text-align: center;}
+h1 {font-family: Impact,sans-serif;}
+h2 {text-align: center;}
+h2 {font-family: Impact,sans-serif;}
+
+p {font-size: 15px;}
